@@ -5,5 +5,6 @@ export const raleway = Raleway({
 })
 
 export const comicNeue = Comic_Neue({
+  subsets: ['latin'],
   weight: ['400', '700']
 })
